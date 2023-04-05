@@ -1,4 +1,5 @@
 ---
+title: "5G and IoT"
 tag: [lecture, seed]
 ---
 up:: [[Contemporary Information Technologies]]
