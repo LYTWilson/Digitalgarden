@@ -1,0 +1,32 @@
+---
+tag: [lecture, seed]
+---
+up:: [[Contemporary Information Technologies]]
+___
+- cloud computing is like renting from the service provider
+- Google Drive
+	- ubiquitous, convenient, on-demand
+	- rapidly provisioned and released
+	- network access
+	- shared resources
+	- minimal management effort
+- service models
+	- SaaS
+		- google doc.
+	- PaaS
+		- the operating system (OS) is owned and managed by the service provider
+	- IaaS
+		- rent someone's computers
+		- run own software, own OS
+		- includes 
+			- power supply
+			- networking (firewall)
+			- storage (hardisk)
+- essential characteristics
+	- on-demand self-service
+		- use whenever you want without informing the provider
+	- broad network access
+	- rapid elasticity
+		- expand or contract whenenver you want to
+	- measured service
+	- resource pooling
